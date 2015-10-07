@@ -17,6 +17,12 @@
 ![0005](https://cloud.githubusercontent.com/assets/73099/10315380/f1116004-6c27-11e5-9801-45c530aace85.png)
 **0005**: http://glslsandbox.com/e#28082.0
 
+![0006](https://cloud.githubusercontent.com/assets/73099/10346443/3f45b0ba-6cfd-11e5-9dbd-5d7e9b7c5133.png)
+**0006**: http://glslsandbox.com/e#28096.0
+
+![0007](https://cloud.githubusercontent.com/assets/73099/10346444/3f4baaba-6cfd-11e5-879c-c89f7da277f6.png)
+**0007**: http://glslsandbox.com/e#28097.0
+
 ### Run locally
 1. `npm install -g renders`
 2. `renders 000X.frag`
